@@ -17,7 +17,8 @@ Hello World, I am Zac Bogner, a Game Designer with a focus on Level Design and S
 **Projects** 
  
 **2D Space Shooter Pro** 
-<li> View My Documentation Here: (https://racerzstudios.medium.com/list/unity-engine-2d-space-shooter-3056dcb3d620) </li> 
+<li> View My Documentation Here: 
+(https://racerzstudios.medium.com/list/unity-engine-2d-space-shooter-3056dcb3d620) </li> 
 <li> Play My Game Here: (https://zacbogner.itch.io/2d-space-shooter-pro-galaxy-shooter) </li>
 <br> 
 
