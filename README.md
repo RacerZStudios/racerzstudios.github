@@ -8,7 +8,8 @@ Hello World, I am Zac Bogner, a Game Designer with a focus on Level Design and S
 
 <body>
  <div>
-About Me
- <par> I have been working with digital games for over a decade now, since 2013. I enjoy creating new game experiences and helping others along the way. I am eager to learn and grow everyday and build up my knowledge base to share with others. 🥇🎲🎮</par>
+<header> About Me + My Info is:🏁 </header> 
+ <p> I have been working with digital games for over a decade now, since 2013. I enjoy creating new game experiences and helping others along the way. I am eager to learn and grow everyday and build up my knowledge base to share with others. 🥇🎲🎮</p>
  </div> 
+<div> **Recent Work** </div>
 </body>
